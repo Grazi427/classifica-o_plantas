@@ -46,15 +46,19 @@ Nesta seção, você pode adicionar as capturas de tela do programa em funcionam
 
 ### Menu Principal
 
-*(Adicione aqui o print do menu inicial)*
+<img width="1103" height="241" alt="image" src="https://github.com/user-attachments/assets/ee381ea0-c387-4424-8603-28074a40d2ec" />
+
 
 ### Processo de Identificação
 
-*(Adicione aqui o print das perguntas socráticas sendo respondidas)*
+<img width="1113" height="517" alt="image" src="https://github.com/user-attachments/assets/2140e762-8e15-4cd7-ae34-761b38a8bb10" />
+
+
 
 ### Listagem de Espécies
 
-*(Adicione aqui o print do catálogo de plantas do Ceará sendo exibido no terminal)*
+<img width="1105" height="516" alt="image" src="https://github.com/user-attachments/assets/86e22b80-668c-4163-a554-47e34023e267" />
+
 
 ---
 
