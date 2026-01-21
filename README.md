@@ -59,6 +59,9 @@ Nesta seção, você pode adicionar as capturas de tela do programa em funcionam
 
 <img width="1105" height="516" alt="image" src="https://github.com/user-attachments/assets/86e22b80-668c-4163-a554-47e34023e267" />
 
+### Diagrama UML
+
+<img width="751" height="354" alt="Classificação_Plantas drawio" src="https://github.com/user-attachments/assets/d125a895-37bb-4f51-b2db-e6c55a816c80" />
 
 ---
 
