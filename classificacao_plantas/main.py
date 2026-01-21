@@ -38,7 +38,7 @@ def exibir_resultado(grupo_nome):
     print(f"\n Resultado: A planta pertence ao grupo das {grupo_nome}s")
     print("\n" + "="*40)
     print("     Exemplos conhecidos no Ceará")
-    print("\n" + "="*40)
+    print("="*40)
     for p in lista_plantas:
         if isinstance(p, mapeamento[grupo_nome]):
             print(p.ficha_tecnica())
@@ -60,7 +60,7 @@ def main():
         elif opcao == '2':
             categoria = input('\nQual categoria você deseja filtrar (angio, pteri, ginmi, brio): ')
             if categoria == 'angio':
-                print("\n" + "="*40)
+                print("="*40)
                 print("Plantas Angiospermas típicas do Ceará")
                 print("="*40)
                 for p in angios:
